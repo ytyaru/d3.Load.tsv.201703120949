@@ -1,0 +1,9 @@
+#RepositoryList { border-collapse: collapse; }
+#RepositoryList th { background-color: #CCC; }
+#RepositoryList td, 
+#RepositoryList th {
+  border-collapse: collapse;
+  border: 1px #CCC dotted;
+  padding: 6px;
+}
+
